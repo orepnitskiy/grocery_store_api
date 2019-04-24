@@ -1,4 +1,4 @@
-# products_api
+# grocery_store_api
 This is a project that realize API of grocery store. For correct start of application it's mandatory to start and apply all migrations. Technical description of project you can see below:
 
 (POST) /api/v1/goods/ - create product in grocery store
